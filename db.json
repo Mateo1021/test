@@ -1,1 +1,16 @@
 
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Mateo es una perra"
+        },
+        {
+            "id": 2,
+            "title": "hello"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
