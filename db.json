@@ -1,13 +1,22 @@
 
-{
-  "posts": [
-{"CODIGO":"17996-1","DESCRIPCION":"3 GEL Caja Sachet x 20 x 10ml","ABREVIATURA":"DROPESAC","NOM LABORATORIO":"Laboratorio Dropesac","FECHA VIGENCIA":"2020-02-20","PVF":"60","PPS":"0"},
-{"CODIGO":"11972-1","DESCRIPCION":"3-A OFTENO 0.1% Env. x 5ml","ABREVIATURA":"SOPHIA","NOM LABORATORIO":"(Ver LABORATORIOS OFTALMICOS S.A.C.)","FECHA VIGENCIA":"2020-02-20","PVF":"104.92","PPS":"139.54"},
-{"CODIGO":"15062-1","DESCRIPCION":"3-GEL Oral Caja Sachet Susp. x 20 x 10ml c/u","ABREVIATURA":"KOREPHARMA","NOM LABORATORIO":"(Ver DROPESAC)","FECHA VIGENCIA":"2015-01-31","PVF":"72.88","PPS":"96.93"},
-{"CODIGO":"18035-1","DESCRIPCION":"4 X 1 TE VERDE, APIO, LINAZA, BERENJENA 350mg Fco. Caps. x 100","ABREVIATURA":"VIDA NATURAL","NOM LABORATORIO":"Laboratorios M & G Vida Natural E.I.R.L.","FECHA VIGENCIA":"2018-08-31","PVF":"15","PPS":"25.5"}
-  ],
-  "otros":[
-    "id":1,
-    "text":"sadf"
-          ]
-}
+{"code":1,"info":[{"nombreUsuario":"SANDRA MILENA SANCHEZ
+BUSTILLO","estadoContrato":"LIQUIDADO","estadoUsuario":"ACTIVO","fechaVigenciaInicio":"20170401","fechaVigenciaFin":"20220228","codigoCia":"10","codigoPlan":"32","motivo":"USUARIO
+VIGENTE","numeroContrato":"10321","numFamilia":"555","numUsuario":"1","fechaVigenciaInicioUsuario":"20170401","fechaVigenciaFinUsuario":"20220228","nombrePlan":"COLSANITAS
+COLSANITAS PLAN
+DENTAL","estadoHabilitado":"HABILITADO","userType":"BENEFICIARIO","marcaMedica":"Ninguna","Edad":36,"tipoIdentificacion":"1"},{"nombreUsuario":"SANDRA
+MILENA SANCHEZ
+BUSTILLO","estadoContrato":"LIQUIDADO","estadoUsuario":"ACTIVO","fechaVigenciaInicio":"20170401","fechaVigenciaFin":"20220131","codigoCia":"10","codigoPlan":"10","motivo":"USUARIO
+VIGENTE","numeroContrato":"1040100","numFamilia":"5558","numUsuario":"1","fechaVigenciaInicioUsuario":"20170401","fechaVigenciaFinUsuario":"20220131","nombrePlan":"COLSANITAS
+INTEGRAL","estadoHabilitado":"HABILITADO","userType":"BENEFICIARIO","marcaMedica":"Ninguna","Edad":36,"tipoIdentificacion":"1"},{"nombreUsuario":"SANDRA
+MILENA SANCHEZ
+BUSTILLO","estadoContrato":"LIQUIDADO","estadoUsuario":"RETIRADO","fechaVigenciaInicio":"20160101","fechaVigenciaFin":"20170331","codigoCia":"10","codigoPlan":"10","motivo":"BENEFICIARIO
+NO VIGENTE EN
+CONTRATO","numeroContrato":"1040107634","numFamilia":"1135","numUsuario":"1","fechaVigenciaInicioUsuario":"20160101","fechaVigenciaFinUsuario":"20170331","nombrePlan":"COLSANITAS
+INTEGRAL","estadoHabilitado":"NO
+HABILITADO","userType":"BENEFICIARIO","marcaMedica":"Ninguna","Edad":36,"tipoIdentificacion":"1"},{"nombreUsuario":"SANDRA
+MILENA SANCHEZ
+BUSTILLO","estadoContrato":"LIQUIDADO","estadoUsuario":"RETIRADO","fechaVigenciaInicio":"20150401","fechaVigenciaFin":"20151231","codigoCia":"10","codigoPlan":"10","motivo":"BENEFICIARIO
+NO VIGENTE EN
+CONTRATO","numeroContrato":"1040100","numFamilia":"5376","numUsuario":"1","fechaVigenciaInicioUsuario":"20150401","fechaVigenciaFinUsuario":"20151231","nombrePlan":"COLSANITAS
+INTEGRAL","estadoHabilitado":"NO
+HABILITADO","userType":"BENEFICIARIO","marcaMedica":"Ninguna","Edad":36,"tipoIdentificacion":"1"}]}
