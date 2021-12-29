@@ -1,91 +1,131 @@
 {
-
-  "code": 1,
-  "info": [
-    {
-      "nombreUsuario": "SANDRA MILENA SANCHEZ BUSTILLO",
-      "estadoContrato": "LIQUIDADO",
-      "estadoUsuario": "ACTIVO",
-      "fechaVigenciaInicio": "20170401",
-      "fechaVigenciaFin": "20220228",
-      "codigoCia": "10",
-      "codigoPlan": "32",
-      "motivo": "USUARIO VIGENTE",
-      "numeroContrato": "10321",
-      "numFamilia": "555",
-      "numUsuario": "1",
-      "fechaVigenciaInicioUsuario": "20170401",
-      "fechaVigenciaFinUsuario": "20220228",
-      "nombrePlan": "COLSANITAS COLSANITAS PLAN DENTAL",
-      "estadoHabilitado": "HABILITADO",
-      "userType": "BENEFICIARIO",
-      "marcaMedica": "Ninguna",
-      "Edad": 36,
-      "tipoIdentificacion": "1"
+"Questions": [
+  {
+        "age_range": 1,
+        "item": 1,
+        "question": "Realiza reflejo de búsqueda y reflejo de succión",
+        "component": "MOTRICIDAD_GRUESA"
     },
     {
-      "nombreUsuario": "SANDRA MILENA SANCHEZ BUSTILLO",
-      "estadoContrato": "LIQUIDADO",
-      "estadoUsuario": "ACTIVO",
-      "fechaVigenciaInicio": "20170401",
-      "fechaVigenciaFin": "20220131",
-      "codigoCia": "10",
-      "codigoPlan": "10",
-      "motivo": "USUARIO VIGENTE",
-      "numeroContrato": "1040100",
-      "numFamilia": "5558",
-      "numUsuario": "1",
-      "fechaVigenciaInicioUsuario": "20170401",
-      "fechaVigenciaFinUsuario": "20220131",
-      "nombrePlan": "COLSANITAS INTEGRAL",
-      "estadoHabilitado": "HABILITADO",
-      "userType": "BENEFICIARIO",
-      "marcaMedica": "Ninguna",
-      "Edad": 36,
-      "tipoIdentificacion": "1"
+        "age_range": 1,
+        "item": 2,
+        "question": "El reflejo de moro está presente y es simétrico",
+        "component": "MOTRICIDAD_GRUESA"
     },
     {
-      "nombreUsuario": "SANDRA MILENA SANCHEZ BUSTILLO",
-      "estadoContrato": "LIQUIDADO",
-      "estadoUsuario": "RETIRADO",
-      "fechaVigenciaInicio": "20160101",
-      "fechaVigenciaFin": "20170331",
-      "codigoCia": "10",
-      "codigoPlan": "10",
-      "motivo": "BENEFICIARIO NO VIGENTE EN CONTRATO",
-      "numeroContrato": "1040107634",
-      "numFamilia": "1135",
-      "numUsuario": "1",
-      "fechaVigenciaInicioUsuario": "20160101",
-      "fechaVigenciaFinUsuario": "20170331",
-      "nombrePlan": "COLSANITAS INTEGRAL",
-      "estadoHabilitado": "NO HABILITADO",
-      "userType": "BENEFICIARIO",
-      "marcaMedica": "Ninguna",
-      "Edad": 36,
-      "tipoIdentificacion": "1"
+        "age_range": 1,
+        "item": 3,
+        "question": "Mueve sus extremidades.",
+        "component": "MOTRICIDAD_GRUESA"
     },
     {
-      "nombreUsuario": "SANDRA MILENA SANCHEZ BUSTILLO",
-      "estadoContrato": "LIQUIDADO",
-      "estadoUsuario": "RETIRADO",
-      "fechaVigenciaInicio": "20150401",
-      "fechaVigenciaFin": "20151231",
-      "codigoCia": "10",
-      "codigoPlan": "10",
-      "motivo": "BENEFICIARIO NO VIGENTE EN CONTRATO",
-      "numeroContrato": "1040100",
-      "numFamilia": "5376",
-      "numUsuario": "1",
-      "fechaVigenciaInicioUsuario": "20150401",
-      "fechaVigenciaFinUsuario": "20151231",
-      "nombrePlan": "COLSANITAS INTEGRAL",
-      "estadoHabilitado": "NO HABILITADO",
-      "userType": "BENEFICIARIO",
-      "marcaMedica": "Ninguna",
-      "Edad": 36,
-      "tipoIdentificacion": "1"
-    }
-  ]
-
+        "age_range": 2,
+        "item": 4,
+        "question": "Sostiene la cabeza al levantarlo de los brazos.",
+        "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+        "age_range": 2,
+        "item": 5,
+        "question": "Levanta la cabeza y pecho en prono.",
+        "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+        "age_range": 2,
+        "item": 6,
+        "question": "Gira la cabeza desde la línea media.",
+        "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 3,
+      "item": 7,
+      "question": "Control de cabeza sentado con apoyo.",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 3,
+      "item": 8,
+      "question": "Se voltea.",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 3,
+      "item": 9,
+      "question": "Se mantiene sentado momentáneamente.",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 4,
+      "item": 10,
+      "question": "Se mantiene sentado sin apoyo",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 4,
+      "item": 11,
+      "question": "Adopta la posición de sentado.",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 4,
+      "item": 12,
+      "question": "Se arrastra en posición prono",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 5,
+      "item": 13,
+      "question": "Gatea con desplazamiento cruzado (alternando rodillas y manos)",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 5,
+      "item": 14,
+      "question": "Adopta posición bípeda y se mantiene de pie con apoyo",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 5,
+      "item": 15,
+      "question": "Se sostiene de pie sin apoyo",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 6,
+      "item": 16,
+      "question": "Se pone de pie sin ayuda",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 6,
+      "item": 17,
+      "question": "Da pasos solo(a).",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 6,
+      "item": 18,
+      "question": "Camina con desplazamiento cruzado sin ayuda (alternando manos y pies)",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 7,
+      "item": 19,
+      "question": "Corre",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 7,
+      "item": 20,
+      "question": "Lanza la pelota",
+      "component": "MOTRICIDAD_GRUESA"
+    },
+    {
+      "age_range": 7,
+      "item": 21,
+      "question": "Patea la pelota",
+      "component": "MOTRICIDAD_GRUESA"
+    }   
+]
 }
+
