@@ -4,19 +4,25 @@
         "name": "mateo Peña Duran",
         "mail": "mateoppd1021@gmail.com",
         "tel": "3144867555",
-        "status": "Activo"
+        "status": "Activo",
+        "tipyDoc": "CC",
+        "numDoc":"1020836407"
     },
     {
         "name": "Eduardo Peña Mora",
         "mail": "test@gmail.com",
         "tel": "3125861905",
-        "status": "Activo"
+        "status": "Activo",
+        "tipyDoc": "CC",
+        "numDoc":"794716267"
     },
       {
         "name": "Andres Cubillos Mendez",
         "mail": "test32@gmail.com",
         "tel": "3112492539",
         "status": "Inactivo"
+        "tipyDoc": "CC",
+        "numDoc":"98273489"
     }
 ]
 }
