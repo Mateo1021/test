@@ -6,7 +6,7 @@
         "description": "Web view que permite la captura de datos con campos desplegables y luego se envian a un servicio o pueden retornar estos datos al bot",
         "category": "WebView",
         "discount": "0",
-        "price": "100.000",
+        "price": "100000",
         "status": "ACTIVO",
         "url_image":[     
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81ppqXcCqjh7t_8Qa9ldl3buCIKtT6DT5mYblHBWOBNiwKtpKxophzhEQkdOWH_13KhV2H5kFSyVUIK1k93PbQhvsxiG=w1289-h931", 
@@ -21,7 +21,7 @@
         "description": "Web view que permite la captura de un usuario y contraseña y hace la respectiva validacion mediante un servicio",
         "category": "WebView",
         "discount": "10",
-        "price": "50.000",
+        "price": "50000",
         "status": "ACTIVO",
         "url_image":[     
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qP5sZanzZngzjkfEx8N-zWnudzWuYoehOnLwvE1RzEk9wHL3mlNxL_pA5H_1ExHuf29tIWazOxEcNP2qRdSfbSHNoAdQ=w1289-h931", 
@@ -36,7 +36,7 @@
         "description": "Interfaz dinamica para comprobar las reglas de validacion de una contraseña",
         "category": "WebView",
         "discount": "0",
-        "price": "500.000",
+        "price": "500000",
         "status": "ACTIVO",
         "url_image":[     
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qHcBPuyKh6Z30ILbc5dmgjqJxbx1DoBWmGEKcHYwZGuBAXCIGJMxwjdvw9KVZdgsEBRgImYCmh7PtdaXV4zhTlY1nP=w1289-h931", 
@@ -51,7 +51,7 @@
         "description": "Buscador con sistema de recomendacion por similitud en palabras",
         "category": "WebView",
         "discount": "10",
-        "price": "800.000",
+        "price": "800000",
         "status": "ACTIVO",
         "url_image":[     
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qAQlX801Up_oJi7_EdLWYAOSxvTeH6DPuPp350q7fQf2wCXNShTNc4tZtNc9E0c3Zx-WMZs0daM0Y9tlDjg9DPaNEz9A=w1289-h931", 
@@ -66,7 +66,7 @@
         "description": "Web view que permite la creacion de una tabal con informacion de productos o servicios y se podra interactuar con ella",
         "category": "WebView",
         "discount": "0",
-        "price": "50.000",
+        "price": "50000",
         "status": "ACTIVO",
         "url_image":[     
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81omPf0A6QMHmwIF65E5brRWe6p6Tj6qATn205pgUAV3aOG_orucbzQi3AzT__1g5P4OHT764fj-wSnnFWcAa-j6HaWX=w1289-h931", 
@@ -81,7 +81,7 @@
         "description": "Web view que permite la seleccion de productos y creacion de un carrito",
         "category": "WebView",
         "discount": "30",
-        "price": "5.000.000",
+        "price": "5000000",
         "status": "ACTIVO",
         "url_image":[     
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p0k_qCR-OydaBfpjpAtFNFLfzq2Y44s0mfJAejZMJRXeZxfJRwfMG8fOqQD9puFs0fYDCX1YRV_kpCY3CATsI7DzTRZg=w1289-h931", 
@@ -96,7 +96,7 @@
         "description": "Web view que permite la captura de datos mediante un servicio una previa visualizacion y su descarga",
         "category": "WebView",
         "discount": "0",
-        "price": "5.000",
+        "price": "5000",
         "status": "ACTIVO",
         "url_image":[     
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pLTuSmewm71sei21Tu5oWx7ag2qB7mgOahrxb5QuFUXLwuhj3MijIC2qZp6trd_5e61VgqGoD9ypzignW3cuAE_F04=w1289-h931", 
@@ -111,7 +111,7 @@
         "description": "Web view que permite la captura de datos mediante un servicio una previa visualizacion y su descarga",
         "category": "WebView",
         "discount": "10",
-        "price": "5.000",
+        "price": "5000",
         "status": "0",
         "url_image":[     
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pLTuSmewm71sei21Tu5oWx7ag2qB7mgOahrxb5QuFUXLwuhj3MijIC2qZp6trd_5e61VgqGoD9ypzignW3cuAE_F04=w1289-h931", 
@@ -126,7 +126,7 @@
         "description": "Web view que permite la captura de datos mediante un servicio una previa visualizacion y su descarga",
         "category": "WebView",
         "discount": "10",
-        "price": "5.000",
+        "price": "5000",
         "status": "0",
         "url_image":[     
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pLTuSmewm71sei21Tu5oWx7ag2qB7mgOahrxb5QuFUXLwuhj3MijIC2qZp6trd_5e61VgqGoD9ypzignW3cuAE_F04=w1289-h931", 
