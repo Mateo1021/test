@@ -2,91 +2,91 @@
 "info": [
     {
         "code_product": "1046291",
-        "name_product": "Formulario de datos",
-        "description": "Web view que permite la captura de datos con campos desplegables y luego se envian a un servicio o pueden retornar estos datos al bot",
-        "category": "WebView",
+        "name_product": "Galletas saltin",
+        "description": "Galletas saltin",
+        "category": "Galletas",
         "discount": "0",
         "price": "100000",
         "status": "ACTIVO",
         "url_image":[     
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oAmQ6a6eWu5wakZng8VvxEvW5IdecrHGkj88mK0gP6Dc71X9rzVvbm7GQjMfTBanzu4LOTXE1fyKtRfpI2naSPbPN8Bw=w999-h931", 
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oAmQ6a6eWu5wakZng8VvxEvW5IdecrHGkj88mK0gP6Dc71X9rzVvbm7GQjMfTBanzu4LOTXE1fyKtRfpI2naSPbPN8Bw=w999-h931",
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oAmQ6a6eWu5wakZng8VvxEvW5IdecrHGkj88mK0gP6Dc71X9rzVvbm7GQjMfTBanzu4LOTXE1fyKtRfpI2naSPbPN8Bw=w999-h931"
+        "https://exitocol.vtexassets.com/arquivos/ids/18396080-1200-auto?v=638194726726270000&width=1200&height=auto&aspect=true", 
+        "https://exitocol.vtexassets.com/arquivos/ids/18396081-1200-auto?v=638194726728770000&width=1200&height=auto&aspect=true",
+        "https://exitocol.vtexassets.com/arquivos/ids/18396081-1200-auto?v=638194726728770000&width=1200&height=auto&aspect=true"
         ],
         "cantidad":"20"
     },
     {
         "code_product": "1046292",
-        "name_product": "Login",
-        "description": "Web view que permite la captura de un usuario y contraseña y hace la respectiva validacion mediante un servicio",
-        "category": "WebView",
+        "name_product": "Pasta Doria",
+        "description": "Pasta doria 500g",
+        "category": "Pasta",
         "discount": "10",
         "price": "50000",
         "status": "ACTIVO",
         "url_image":[     
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oSzMm2l8Blsq8FyTeD8qMz71Ly5gLs2wJmyRXQKnYE3txGWRYAsOylvcsH6Q4T1TJ_rPXjDBzkYG2ckj8z6dw9dwbAPw=w999-h931", 
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oSzMm2l8Blsq8FyTeD8qMz71Ly5gLs2wJmyRXQKnYE3txGWRYAsOylvcsH6Q4T1TJ_rPXjDBzkYG2ckj8z6dw9dwbAPw=w999-h931",
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oSzMm2l8Blsq8FyTeD8qMz71Ly5gLs2wJmyRXQKnYE3txGWRYAsOylvcsH6Q4T1TJ_rPXjDBzkYG2ckj8z6dw9dwbAPw=w999-h931"
+        "https://exitocol.vtexassets.com/arquivos/ids/18243583-1200-auto?v=638188238007230000&width=1200&height=auto&aspect=true",
+        "https://exitocol.vtexassets.com/arquivos/ids/18243584-1200-auto?v=638188238008500000&width=1200&height=auto&aspect=true",
+        "https://exitocol.vtexassets.com/arquivos/ids/18243584-1200-auto?v=638188238008500000&width=1200&height=auto&aspect=true"
         ],
         "cantidad":"20"
     },    
     {
         "code_product": "1046293",
-        "name_product": "Cambio de contraseña",
-        "description": "Interfaz dinamica para comprobar las reglas de validacion de una contraseña",
-        "category": "WebView",
+        "name_product": "Galletas Oreo",
+        "description": "Galletas oreo por paquete",
+        "category": "Galletas",
         "discount": "0",
         "price": "500000",
         "status": "ACTIVO",
-        "url_image":[     
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81quwkxVUBuBZ9gHlGtEzd2uEc4spmZDdiC29SBVbSMHC7n0gsdBR8TkUKlgCs5vL1C_mqPTRJI3WRdTXbREFaJ0u59I9w=w999-h931", 
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81quwkxVUBuBZ9gHlGtEzd2uEc4spmZDdiC29SBVbSMHC7n0gsdBR8TkUKlgCs5vL1C_mqPTRJI3WRdTXbREFaJ0u59I9w=w999-h931",
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81quwkxVUBuBZ9gHlGtEzd2uEc4spmZDdiC29SBVbSMHC7n0gsdBR8TkUKlgCs5vL1C_mqPTRJI3WRdTXbREFaJ0u59I9w=w999-h931"
-        ],
+        "url_image":[  
+            "https://exitocol.vtexassets.com/arquivos/ids/18253735-1200-auto?v=638188362625070000&width=1200&height=auto&aspect=true",
+            "https://exitocol.vtexassets.com/arquivos/ids/18253738-1200-auto?v=638188362630500000&width=1200&height=auto&aspect=true",
+            "https://exitocol.vtexassets.com/arquivos/ids/18253738-1200-auto?v=638188362630500000&width=1200&height=auto&aspect=true"
+       ],
         "cantidad":"20"
     },    
     {
         "code_product": "1046294",
-        "name_product": "Buscador dinamico",
-        "description": "Buscador con sistema de recomendacion por similitud en palabras",
-        "category": "dinamico",
+        "name_product": "Galletas Festival",
+        "description": "Galletas festival por paquede de 12",
+        "category": "Galletas",
         "discount": "10",
         "price": "800000",
         "status": "ACTIVO",
-        "url_image":[     
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oyvLVT5XlweHjQZJQV6uEwsXILL_dJfQBjdwNdC_GJ2r0utv4UeYQtqk0nMKiRuj_UgBfs1UvK5BLIy7gwliTojLBFqA=w999-h931", 
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oyvLVT5XlweHjQZJQV6uEwsXILL_dJfQBjdwNdC_GJ2r0utv4UeYQtqk0nMKiRuj_UgBfs1UvK5BLIy7gwliTojLBFqA=w999-h931",
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81oyvLVT5XlweHjQZJQV6uEwsXILL_dJfQBjdwNdC_GJ2r0utv4UeYQtqk0nMKiRuj_UgBfs1UvK5BLIy7gwliTojLBFqA=w999-h931"
+        "url_image":[
+        "https://exitocol.vtexassets.com/arquivos/ids/15701669-1200-auto?v=638052285386300000&width=1200&height=auto&aspect=true",
+        "https://exitocol.vtexassets.com/arquivos/ids/15701670-1200-auto?v=638052285387230000&width=1200&height=auto&aspect=true",
+        "https://exitocol.vtexassets.com/arquivos/ids/15701670-1200-auto?v=638052285387230000&width=1200&height=auto&aspect=true"
         ],
         "cantidad":"20"
     },    
     {
         "code_product": "1046295",
-        "name_product": "Tabla de informacion",
-        "description": "Web view que permite la creacion de una tabal con informacion de productos o servicios y se podra interactuar con ella",
-        "category": "formulario",
+        "name_product": "Pasta Tornillos,
+        "description": "Pasta en tornillos 300g",
+        "category": "Pasta",
         "discount": "0",
         "price": "50000",
         "status": "ACTIVO",
-        "url_image":[     
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qOR3r2OlVyIjS-1LIYwrcTBzIZwuOw6Ybyq87zcuqNjb-VQ36Lt7muZ71yEwaklndkGV4n5ac3z8InGIEK-P60VoEAVA=w999-h931", 
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qOR3r2OlVyIjS-1LIYwrcTBzIZwuOw6Ybyq87zcuqNjb-VQ36Lt7muZ71yEwaklndkGV4n5ac3z8InGIEK-P60VoEAVA=w999-h931",
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81qOR3r2OlVyIjS-1LIYwrcTBzIZwuOw6Ybyq87zcuqNjb-VQ36Lt7muZ71yEwaklndkGV4n5ac3z8InGIEK-P60VoEAVA=w999-h931"
+        "url_image":[
+        "https://exitocol.vtexassets.com/arquivos/ids/18243548-1200-auto?v=638188237761800000&width=1200&height=auto&aspect=true",
+        "https://exitocol.vtexassets.com/arquivos/ids/18243565-1200-auto?v=638188237773830000&width=1200&height=auto&aspect=true",
+        "https://exitocol.vtexassets.com/arquivos/ids/18243565-1200-auto?v=638188237773830000&width=1200&height=auto&aspect=true"
         ],
         "cantidad":"20"
     },    
     {
         "code_product": "1046296",
-        "name_product": "Retail",
-        "description": "Web view que permite la seleccion de productos y creacion de un carrito",
-        "category": "retail",
+        "name_product": "Arroz diana",
+        "description": "Arroz diana por libra",
+        "category": "Arroz",
         "discount": "30",
         "price": "5000000",
         "status": "ACTIVO",
-        "url_image":[     
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81opIjzH5XMvpeWV0WqPg96ZMEHHZvZxTdvMMWRTfdARKGPNhapBtuiOsHdk8SlnyK35yPeKX69p3g51qvx_L0Nd044JdQ=w999-h931", 
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81opIjzH5XMvpeWV0WqPg96ZMEHHZvZxTdvMMWRTfdARKGPNhapBtuiOsHdk8SlnyK35yPeKX69p3g51qvx_L0Nd044JdQ=w999-h931",
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81opIjzH5XMvpeWV0WqPg96ZMEHHZvZxTdvMMWRTfdARKGPNhapBtuiOsHdk8SlnyK35yPeKX69p3g51qvx_L0Nd044JdQ=w999-h931"
+        "url_image":[
+            "https://exitocol.vtexassets.com/arquivos/ids/16287480-1200-auto?v=638096522502270000&width=1200&height=auto&aspect=true",
+            "https://exitocol.vtexassets.com/arquivos/ids/16287480-1200-auto?v=638096522502270000&width=1200&height=auto&aspect=true",
+            "https://exitocol.vtexassets.com/arquivos/ids/16287480-1200-auto?v=638096522502270000&width=1200&height=auto&aspect=true"
         ],
         "cantidad":"20"
     },    
@@ -107,16 +107,16 @@
     },
      {
         "code_product": "1046298",
-        "name_product": "PDF",
-        "description": "Web view que permite la captura de datos mediante un servicio una previa visualizacion y su descarga",
-        "category": "formulario",
+        "name_product": "Leche Alpina",
+        "description": "Leche alpina por paca de 4",
+        "category": "Leche",
         "discount": "10",
         "price": "5000",
         "status": "0",
-        "url_image":[     
-        "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pLTuSmewm71sei21Tu5oWx7ag2qB7mgOahrxb5QuFUXLwuhj3MijIC2qZp6trd_5e61VgqGoD9ypzignW3cuAE_F04=w1289-h931", 
-        "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pLTuSmewm71sei21Tu5oWx7ag2qB7mgOahrxb5QuFUXLwuhj3MijIC2qZp6trd_5e61VgqGoD9ypzignW3cuAE_F04=w1289-h931",
-        "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pLTuSmewm71sei21Tu5oWx7ag2qB7mgOahrxb5QuFUXLwuhj3MijIC2qZp6trd_5e61VgqGoD9ypzignW3cuAE_F04=w1289-h931"
+        "url_image":[
+            "https://exitocol.vtexassets.com/arquivos/ids/16725006-1200-auto?v=638128688758570000&width=1200&height=auto&aspect=true",
+            "https://exitocol.vtexassets.com/arquivos/ids/16725006-1200-auto?v=638128688758570000&width=1200&height=auto&aspect=true",
+            "https://exitocol.vtexassets.com/arquivos/ids/16725006-1200-auto?v=638128688758570000&width=1200&height=auto&aspect=true"
         ],
         "cantidad":"20"
     },
