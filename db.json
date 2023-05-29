@@ -97,7 +97,7 @@
         "category": "formulario",
         "discount": "0",
         "price": "5000",
-        "status": "ACTIVO",
+        "status": "0",
         "url_image":[     
         "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pckaEO_aEgSRQVGqmIynddjJlMNuUuX7aMlnEic3O6GzLhmSnWESFfZYuEzYV5a62ZYvfn-H9YlA0LROJr-xdCfvoFOQ=w999-h931", 
         "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pckaEO_aEgSRQVGqmIynddjJlMNuUuX7aMlnEic3O6GzLhmSnWESFfZYuEzYV5a62ZYvfn-H9YlA0LROJr-xdCfvoFOQ=w999-h931",
@@ -112,7 +112,7 @@
         "category": "Leche",
         "discount": "10",
         "price": "5000",
-        "status": "0",
+        "status": "ACTIVO",
         "url_image":[
             "https://exitocol.vtexassets.com/arquivos/ids/16725006-1200-auto?v=638128688758570000&width=1200&height=auto&aspect=true",
             "https://exitocol.vtexassets.com/arquivos/ids/16725006-1200-auto?v=638128688758570000&width=1200&height=auto&aspect=true",
