@@ -2,61 +2,61 @@
 "info": [
     {
         "code_product": "1046291",
-        "name_product": "Galletas saltin",
-        "description": "Galletas saltin",
+        "name_product": "Galletas Chocolate",
+        "description": "Galletas en paquete de choc",
         "category": "Galletas",
         "discount": "0",
         "price": "100000",
         "status": "ACTIVO",
         "url_image":[     
-        "https://exitocol.vtexassets.com/arquivos/ids/18396080-1200-auto?v=638194726726270000&width=1200&height=auto&aspect=true", 
-        "https://exitocol.vtexassets.com/arquivos/ids/18396081-1200-auto?v=638194726728770000&width=1200&height=auto&aspect=true",
-        "https://exitocol.vtexassets.com/arquivos/ids/18396081-1200-auto?v=638194726728770000&width=1200&height=auto&aspect=true"
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAdGesCXSfPnuCR1M6yxb-Obl9ibY0WlKd2wLh0SLvcTCevTgsh2Tpv7TBREMnWoJ36soL88x1kbmjBSjbnn7QKSORQPT6&usqp=CAE", 
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAdGesCXSfPnuCR1M6yxb-Obl9ibY0WlKd2wLh0SLvcTCevTgsh2Tpv7TBREMnWoJ36soL88x1kbmjBSjbnn7QKSORQPT6&usqp=CAE",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAdGesCXSfPnuCR1M6yxb-Obl9ibY0WlKd2wLh0SLvcTCevTgsh2Tpv7TBREMnWoJ36soL88x1kbmjBSjbnn7QKSORQPT6&usqp=CAE"
         ],
         "cantidad":"20"
     },
     {
         "code_product": "1046292",
-        "name_product": "Pasta Doria",
-        "description": "Pasta doria 500g",
+        "name_product": "Pasta receta",
+        "description": "Pasta 500g",
         "category": "Pasta",
         "discount": "10",
         "price": "50000",
         "status": "ACTIVO",
         "url_image":[     
-        "https://exitocol.vtexassets.com/arquivos/ids/18243583-1200-auto?v=638188238007230000&width=1200&height=auto&aspect=true",
-        "https://exitocol.vtexassets.com/arquivos/ids/18243584-1200-auto?v=638188238008500000&width=1200&height=auto&aspect=true",
-        "https://exitocol.vtexassets.com/arquivos/ids/18243584-1200-auto?v=638188238008500000&width=1200&height=auto&aspect=true"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTYxc1e_QmYaLKIU6ywfSqzkbs9lQnEO7JveQuMh-oHJ6PKvbnwhIAIZPBSowqFlTeoJBtZct2bzyA29rFHlk0wxav1qQPv&usqp=CAY",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvbz4r4inJZTOL_Y1x15GqQhv1sJ78kiswl1UdAxF7RdH60zfG7v90lJgai9dtEd1vLI5sUdC4Azkzv3laP8Zs5ZdCgIU4&usqp=CAY",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvbz4r4inJZTOL_Y1x15GqQhv1sJ78kiswl1UdAxF7RdH60zfG7v90lJgai9dtEd1vLI5sUdC4Azkzv3laP8Zs5ZdCgIU4&usqp=CAY"
         ],
         "cantidad":"20"
     },    
     {
         "code_product": "1046293",
-        "name_product": "Galletas Oreo",
-        "description": "Galletas oreo por paquete",
+        "name_product": "Galletas surtidas",
+        "description": "Galletas surtidas por paquete",
         "category": "Galletas",
         "discount": "0",
         "price": "500000",
         "status": "ACTIVO",
         "url_image":[  
-            "https://exitocol.vtexassets.com/arquivos/ids/18253735-1200-auto?v=638188362625070000&width=1200&height=auto&aspect=true",
-            "https://exitocol.vtexassets.com/arquivos/ids/18253738-1200-auto?v=638188362630500000&width=1200&height=auto&aspect=true",
-            "https://exitocol.vtexassets.com/arquivos/ids/18253738-1200-auto?v=638188362630500000&width=1200&height=auto&aspect=true"
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQugdfo-5zokSI7JnwdwWVTV2gGD5srV5B-oW3BKTwE0XJFAsKL&usqp=CAY",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQugdfo-5zokSI7JnwdwWVTV2gGD5srV5B-oW3BKTwE0XJFAsKL&usqp=CAY",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQugdfo-5zokSI7JnwdwWVTV2gGD5srV5B-oW3BKTwE0XJFAsKL&usqp=CAY"
        ],
         "cantidad":"20"
     },    
     {
         "code_product": "1046294",
-        "name_product": "Galletas Festival",
-        "description": "Galletas festival por paquede de 12",
+        "name_product": "Galletas mantequilla",
+        "description": "Galletas mantequilla por paquede de 12",
         "category": "Galletas",
         "discount": "10",
         "price": "800000",
         "status": "ACTIVO",
         "url_image":[
-        "https://exitocol.vtexassets.com/arquivos/ids/15701669-1200-auto?v=638052285386300000&width=1200&height=auto&aspect=true",
-        "https://exitocol.vtexassets.com/arquivos/ids/15701670-1200-auto?v=638052285387230000&width=1200&height=auto&aspect=true",
-        "https://exitocol.vtexassets.com/arquivos/ids/15701670-1200-auto?v=638052285387230000&width=1200&height=auto&aspect=true"
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRH_vDdAzOXlcG-M_nHQ9Oci7Y9Nwh7muSma-W5_CurYIWifoIQveTysLAP5nXK8USBVNegnITmQDx7GPfKxy9YDtxdx2djCkbGe3-HGRzF&usqp=CAE",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRH_vDdAzOXlcG-M_nHQ9Oci7Y9Nwh7muSma-W5_CurYIWifoIQveTysLAP5nXK8USBVNegnITmQDx7GPfKxy9YDtxdx2djCkbGe3-HGRzF&usqp=CAE",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRH_vDdAzOXlcG-M_nHQ9Oci7Y9Nwh7muSma-W5_CurYIWifoIQveTysLAP5nXK8USBVNegnITmQDx7GPfKxy9YDtxdx2djCkbGe3-HGRzF&usqp=CAE"
         ],
         "cantidad":"20"
     },    
@@ -69,24 +69,24 @@
         "price": "50000",
         "status": "ACTIVO",
         "url_image":[
-        "https://exitocol.vtexassets.com/arquivos/ids/18243548-1200-auto?v=638188237761800000&width=1200&height=auto&aspect=true",
-        "https://exitocol.vtexassets.com/arquivos/ids/18243565-1200-auto?v=638188237773830000&width=1200&height=auto&aspect=true",
-        "https://exitocol.vtexassets.com/arquivos/ids/18243565-1200-auto?v=638188237773830000&width=1200&height=auto&aspect=true"
+        "https://http2.mlstatic.com/D_NQ_NP_2X_856254-MCO49794760708_042022-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_856254-MCO49794760708_042022-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_856254-MCO49794760708_042022-F.webp"
         ],
         "cantidad":"20"
     },    
     {
         "code_product": "1046296",
-        "name_product": "Arroz diana",
-        "description": "Arroz diana por libra",
+        "name_product": "Arroz blanco",
+        "description": "Arroz blanco por libra",
         "category": "Arroz",
         "discount": "30",
         "price": "5000000",
         "status": "ACTIVO",
         "url_image":[
-            "https://exitocol.vtexassets.com/arquivos/ids/16287480-1200-auto?v=638096522502270000&width=1200&height=auto&aspect=true",
-            "https://exitocol.vtexassets.com/arquivos/ids/16287480-1200-auto?v=638096522502270000&width=1200&height=auto&aspect=true",
-            "https://exitocol.vtexassets.com/arquivos/ids/16287480-1200-auto?v=638096522502270000&width=1200&height=auto&aspect=true"
+            "https://cdn.shopify.com/s/files/1/0107/3089/7508/products/arroz-blanco-por-libra_1024x1024@2x.jpg?v=1619845514",
+            "https://cdn.shopify.com/s/files/1/0107/3089/7508/products/arroz-blanco-por-libra_1024x1024@2x.jpg?v=1619845514",
+            "https://cdn.shopify.com/s/files/1/0107/3089/7508/products/arroz-blanco-por-libra_1024x1024@2x.jpg?v=1619845514"
         ],
         "cantidad":"20"
     },    
@@ -107,16 +107,16 @@
     },
      {
         "code_product": "1046298",
-        "name_product": "Leche Alpina",
-        "description": "Leche alpina por paca de 4",
+        "name_product": "Leche en botella",
+        "description": "Leche en botella por paca de 4",
         "category": "Leche",
         "discount": "10",
         "price": "5000",
         "status": "ACTIVO",
         "url_image":[
-            "https://exitocol.vtexassets.com/arquivos/ids/16725006-1200-auto?v=638128688758570000&width=1200&height=auto&aspect=true",
-            "https://exitocol.vtexassets.com/arquivos/ids/16725006-1200-auto?v=638128688758570000&width=1200&height=auto&aspect=true",
-            "https://exitocol.vtexassets.com/arquivos/ids/16725006-1200-auto?v=638128688758570000&width=1200&height=auto&aspect=true"
+            "https://http2.mlstatic.com/D_NQ_NP_2X_982918-MCO47684786949_092021-F.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_2X_982918-MCO47684786949_092021-F.webp",
+            "https://http2.mlstatic.com/D_NQ_NP_2X_982918-MCO47684786949_092021-F.webp"
         ],
         "cantidad":"20"
     },
