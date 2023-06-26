@@ -13,7 +13,25 @@
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAdGesCXSfPnuCR1M6yxb-Obl9ibY0WlKd2wLh0SLvcTCevTgsh2Tpv7TBREMnWoJ36soL88x1kbmjBSjbnn7QKSORQPT6&usqp=CAE",
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAdGesCXSfPnuCR1M6yxb-Obl9ibY0WlKd2wLh0SLvcTCevTgsh2Tpv7TBREMnWoJ36soL88x1kbmjBSjbnn7QKSORQPT6&usqp=CAE"
         ],
-        "cantidad":"20"
+        "cantidad":"20",
+        "order":"1",
+        "variant":[
+            {
+            "price":"30000",
+            "name":"Galletas Por kilo",
+            "cant":{"paquete","bolsa","al vacio"}
+            },
+            {
+            "price":"40000",
+            "name":"Galletas Por libra",
+            "cant":{"bolsa","botella","tarro"}
+            },
+            {
+            "price":"35000",
+            "name":"Galletas Por porcion 1K",
+            "cant":{"2 pak","3 pak","5 pak"}
+            }
+        ]
     },
     {
         "code_product": "1046292",
@@ -28,7 +46,25 @@
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvbz4r4inJZTOL_Y1x15GqQhv1sJ78kiswl1UdAxF7RdH60zfG7v90lJgai9dtEd1vLI5sUdC4Azkzv3laP8Zs5ZdCgIU4&usqp=CAY",
         "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvbz4r4inJZTOL_Y1x15GqQhv1sJ78kiswl1UdAxF7RdH60zfG7v90lJgai9dtEd1vLI5sUdC4Azkzv3laP8Zs5ZdCgIU4&usqp=CAY"
         ],
-        "cantidad":"20"
+        "cantidad":"20",
+        "order":"2",
+        "variant":[
+            {
+            "price":"55000",
+            "name":"Receta Original 1k",
+            "cant":{"2 pak","3 pak","5 pak"}
+            },
+            {
+            "price":"55000",
+            "name":"Receta epecial 1k",
+            "cant":{"2 pak","3 pak","5 pak"}
+            },
+            {
+            "price":"55000",
+            "name":"Receta italiana 1k",
+            "cant":{"2 pak","3 pak","5 pak"}
+            },
+        ]
     },    
     {
         "code_product": "1046293",
@@ -43,7 +79,8 @@
             "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQugdfo-5zokSI7JnwdwWVTV2gGD5srV5B-oW3BKTwE0XJFAsKL&usqp=CAY",
             "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQugdfo-5zokSI7JnwdwWVTV2gGD5srV5B-oW3BKTwE0XJFAsKL&usqp=CAY"
        ],
-        "cantidad":"20"
+        "cantidad":"20",
+        "order":"3"
     },    
     {
         "code_product": "1046294",
@@ -58,7 +95,8 @@
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRH_vDdAzOXlcG-M_nHQ9Oci7Y9Nwh7muSma-W5_CurYIWifoIQveTysLAP5nXK8USBVNegnITmQDx7GPfKxy9YDtxdx2djCkbGe3-HGRzF&usqp=CAE",
         "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRH_vDdAzOXlcG-M_nHQ9Oci7Y9Nwh7muSma-W5_CurYIWifoIQveTysLAP5nXK8USBVNegnITmQDx7GPfKxy9YDtxdx2djCkbGe3-HGRzF&usqp=CAE"
         ],
-        "cantidad":"20"
+        "cantidad":"20",
+        "order":"4"
     },    
     {
         "code_product": "1046295",
@@ -73,7 +111,8 @@
         "https://http2.mlstatic.com/D_NQ_NP_2X_856254-MCO49794760708_042022-F.webp",
         "https://http2.mlstatic.com/D_NQ_NP_2X_856254-MCO49794760708_042022-F.webp"
         ],
-        "cantidad":"20"
+        "cantidad":"20",
+        "order":"5"
     },    
     {
         "code_product": "1046296",
@@ -88,7 +127,8 @@
             "https://cdn.shopify.com/s/files/1/0107/3089/7508/products/arroz-blanco-por-libra_1024x1024@2x.jpg?v=1619845514",
             "https://cdn.shopify.com/s/files/1/0107/3089/7508/products/arroz-blanco-por-libra_1024x1024@2x.jpg?v=1619845514"
         ],
-        "cantidad":"20"
+        "cantidad":"20",
+        "order":"6"
     },    
     {
         "code_product": "1046297",
@@ -103,7 +143,8 @@
         "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pckaEO_aEgSRQVGqmIynddjJlMNuUuX7aMlnEic3O6GzLhmSnWESFfZYuEzYV5a62ZYvfn-H9YlA0LROJr-xdCfvoFOQ=w999-h931",
         "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pckaEO_aEgSRQVGqmIynddjJlMNuUuX7aMlnEic3O6GzLhmSnWESFfZYuEzYV5a62ZYvfn-H9YlA0LROJr-xdCfvoFOQ=w999-h931"
         ],
-        "cantidad":"20"
+        "cantidad":"20",
+        "order":"7"
     },
      {
         "code_product": "1046298",
@@ -118,7 +159,8 @@
             "https://http2.mlstatic.com/D_NQ_NP_2X_982918-MCO47684786949_092021-F.webp",
             "https://http2.mlstatic.com/D_NQ_NP_2X_982918-MCO47684786949_092021-F.webp"
         ],
-        "cantidad":"20"
+        "cantidad":"20",
+         "order":"8"
     },
      {
         "code_product": "1046299",
@@ -132,7 +174,8 @@
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pLTuSmewm71sei21Tu5oWx7ag2qB7mgOahrxb5QuFUXLwuhj3MijIC2qZp6trd_5e61VgqGoD9ypzignW3cuAE_F04=w1289-h931", 
         "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pLTuSmewm71sei21Tu5oWx7ag2qB7mgOahrxb5QuFUXLwuhj3MijIC2qZp6trd_5e61VgqGoD9ypzignW3cuAE_F04=w1289-h931"
        ],
-        "cantidad":"0"
+        "cantidad":"0",
+         "order":"9"
     }
 ]
 }
