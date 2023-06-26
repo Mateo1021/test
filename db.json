@@ -19,17 +19,17 @@
             {
             "price":"30000",
             "name":"Galletas Por kilo",
-            "cant":{"paquete","bolsa","al vacio"}
+            "cant":["paquete","bolsa","al vacio"]
             },
             {
             "price":"40000",
             "name":"Galletas Por libra",
-            "cant":{"bolsa","botella","tarro"}
+            "cant":["bolsa","botella","tarro"]
             },
             {
             "price":"35000",
             "name":"Galletas Por porcion 1K",
-            "cant":{"2 pak","3 pak","5 pak"}
+            "cant":["2 pak","3 pak","5 pak"]
             }
         ]
     },
@@ -52,17 +52,17 @@
             {
             "price":"55000",
             "name":"Receta Original 1k",
-            "cant":{"2 pak","3 pak","5 pak"}
+            "cant":["2 pak","3 pak","5 pak"]
             },
             {
             "price":"55000",
             "name":"Receta epecial 1k",
-            "cant":{"2 pak","3 pak","5 pak"}
+            "cant":["2 pak","3 pak","5 pak"]
             },
             {
             "price":"55000",
             "name":"Receta italiana 1k",
-            "cant":{"2 pak","3 pak","5 pak"}
+            "cant":["2 pak","3 pak","5 pak"]
             },
         ]
     },    
