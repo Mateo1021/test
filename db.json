@@ -3,10 +3,10 @@
     {
         "code_product": "1046291",
         "name_product": "Galletas Chocolate",
-        "description": "Galletas en paquete de choc",
+        "description": "Descubre el placer supremo con nuestras galletas de chocolate artesanales: crujientes por fuera, suaves por dentro y repletas de exquisito chocolate que se derrite en tu boca. Experimenta una explosión de sabores en cada mordisco. Perfectas para acompañar tu café o simplemente para disfrutar en cualquier momento del día.",
         "category": "Galletas",
         "discount": "0",
-        "price": "100000",
+        "price": "30000",
         "status": "ACTIVO",
         "url_image":[     
         "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAdGesCXSfPnuCR1M6yxb-Obl9ibY0WlKd2wLh0SLvcTCevTgsh2Tpv7TBREMnWoJ36soL88x1kbmjBSjbnn7QKSORQPT6&usqp=CAE", 
@@ -22,7 +22,7 @@
             "cant":["paquete","bolsa","al vacio"]
             },
             {
-            "price":"40000",
+            "price":"15000",
             "name":"Galletas Por libra",
             "cant":["bolsa","botella","tarro"]
             },
@@ -34,42 +34,11 @@
         ]
     },
     {
-        "code_product": "1046292",
-        "name_product": "Pasta receta",
-        "description": "Pasta 500g",
-        "category": "Pasta",
-        "discount": "10",
-        "price": "50000",
-        "status": "ACTIVO",
-        "url_image":[     
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTYxc1e_QmYaLKIU6ywfSqzkbs9lQnEO7JveQuMh-oHJ6PKvbnwhIAIZPBSowqFlTeoJBtZct2bzyA29rFHlk0wxav1qQPv&usqp=CAY",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvbz4r4inJZTOL_Y1x15GqQhv1sJ78kiswl1UdAxF7RdH60zfG7v90lJgai9dtEd1vLI5sUdC4Azkzv3laP8Zs5ZdCgIU4&usqp=CAY",
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvbz4r4inJZTOL_Y1x15GqQhv1sJ78kiswl1UdAxF7RdH60zfG7v90lJgai9dtEd1vLI5sUdC4Azkzv3laP8Zs5ZdCgIU4&usqp=CAY"
-        ],
-        "cantidad":"20",
-        "order":"2",
-        "variant":[
-            {
-            "price":"57000",
-            "name":"Receta Original 1k",
-            "cant":["2 pak","3 pak","5 pak"]
-            },
-            {
-            "price":"56000",
-            "name":"Receta epecial 1k",
-            "cant":["2 pak","3 pak","5 pak"]
-            },
-            {
-            "price":"59000",
-            "name":"Receta italiana 1k",
-            "cant":["2 pak","3 pak","5 pak"]
-            }
-        ]
-    },    
+        v,    
     {
         "code_product": "1046293",
         "name_product": "Galletas surtidas",
-        "description": "Galletas surtidas por paquete",
+        "description": "Descubre nuestra selección exclusiva de galletas surtidas, un festín para los amantes de lo dulce. Cada caja contiene una variedad de deliciosas galletas cuidadosamente elaboradas con ingredientes de primera calidad. Desde clásicas galletas de mantequilla hasta tentadoras galletas de chocolate, pasando por crujientes galletas de avena y sabrosas galletas de nueces.",
         "category": "Galletas",
         "discount": "0",
         "price": "500000",
