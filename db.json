@@ -34,7 +34,38 @@
         ]
     },
     {
-        v,    
+      "code_product": "1046292",
+        "name_product": "Pasta receta",
+        "description": "Explora nuestra amplia selección de pastas artesanales, el deleite de los amantes de la cocina y los paladares exigentes. Cada caja contiene pasta de la más alta calidad, cuidadosamente elaborada con ingredientes frescos y auténticos.",
+        "category": "Pasta",
+        "discount": "10",
+        "price": "50000",
+        "status": "ACTIVO",
+        "url_image":[     
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTYxc1e_QmYaLKIU6ywfSqzkbs9lQnEO7JveQuMh-oHJ6PKvbnwhIAIZPBSowqFlTeoJBtZct2bzyA29rFHlk0wxav1qQPv&usqp=CAY",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvbz4r4inJZTOL_Y1x15GqQhv1sJ78kiswl1UdAxF7RdH60zfG7v90lJgai9dtEd1vLI5sUdC4Azkzv3laP8Zs5ZdCgIU4&usqp=CAY",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvbz4r4inJZTOL_Y1x15GqQhv1sJ78kiswl1UdAxF7RdH60zfG7v90lJgai9dtEd1vLI5sUdC4Azkzv3laP8Zs5ZdCgIU4&usqp=CAY"
+        ],
+        "cantidad":"20",
+        "order":"2",
+        "variant":[
+            {
+            "price":"50000",
+            "name":"Receta Original 1k",
+            "cant":["2 pak","3 pak","5 pak"]
+            },
+            {
+            "price":"56000",
+            "name":"Receta especial 1k",
+            "cant":["2 pak","3 pak","5 pak"]
+            },
+            {
+            "price":"59000",
+            "name":"Receta italiana 1k",
+            "cant":["2 pak","3 pak","5 pak"]
+            }
+        ]
+    },  
     {
         "code_product": "1046293",
         "name_product": "Galletas surtidas",
