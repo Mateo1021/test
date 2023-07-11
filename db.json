@@ -179,23 +179,7 @@
         ],
         "cantidad":"20",
         "order":"6",
-        "variant":[
-            {
-            "price":"50000",
-            "name":"Receta Original 1k",
-            "cant":["2 pak","3 pak","5 pak"]
-            },
-            {
-            "price":"56000",
-            "name":"Receta especial 1k",
-            "cant":["2 pak","3 pak","5 pak"]
-            },
-            {
-            "price":"59000",
-            "name":"Receta italiana 1k",
-            "cant":["2 pak","3 pak","5 pak"]
-            }
-        ]
+        "variant":[]
     },    
     {
         "code_product": "666666",
@@ -230,22 +214,7 @@
         "order":"8",
          "variant":[]
     },
-     {
-        "code_product": "1046299",
-        "name_product": "PDF",
-        "description": "Web view que permite la captura de datos mediante un servicio una previa visualizacion y su descarga",
-        "category": "formulario",
-        "discount": "10",
-        "price": "5000",
-        "status": "ACTIVO",
-        "url_image":[     
-        "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pLTuSmewm71sei21Tu5oWx7ag2qB7mgOahrxb5QuFUXLwuhj3MijIC2qZp6trd_5e61VgqGoD9ypzignW3cuAE_F04=w1289-h931", 
-        "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pLTuSmewm71sei21Tu5oWx7ag2qB7mgOahrxb5QuFUXLwuhj3MijIC2qZp6trd_5e61VgqGoD9ypzignW3cuAE_F04=w1289-h931"
-       ],
-        "cantidad":"0",
-        "order":"9",
-         "variant":[]
-    }
+
 ]
 }
 
