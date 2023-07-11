@@ -81,7 +81,23 @@
        ],
         "cantidad":"20",
         "order":"3",
-        "variant":[]
+        "variant":[
+            {
+            "price":"30000",
+            "name":"Galletas Por kilo",
+            "cant":["paquete","bolsa","al vacio"]
+            },
+            {
+            "price":"15000",
+            "name":"Galletas Por libra",
+            "cant":["bolsa","botella","tarro"]
+            },
+            {
+            "price":"35000",
+            "name":"Galletas Por porcion 1K",
+            "cant":["2 pak","3 pak","5 pak"]
+            }
+        ]
     },    
     {
         "code_product": "1046294",
@@ -98,7 +114,22 @@
         ],
         "cantidad":"20",
         "order":"4",
-        "variant":[]
+        "variant":[            
+            {
+            "price":"30000",
+            "name":"Galletas Por kilo",
+            "cant":["paquete","bolsa","al vacio"]
+            },
+            {
+            "price":"15000",
+            "name":"Galletas Por libra",
+            "cant":["bolsa","botella","tarro"]
+            },
+            {
+            "price":"35000",
+            "name":"Galletas Por porcion 1K",
+            "cant":["2 pak","3 pak","5 pak"]
+            }]
     },    
     {
         "code_product": "1046295",
@@ -115,7 +146,23 @@
         ],
         "cantidad":"20",
         "order":"5",
-        "variant":[]
+        "variant":[
+            {
+            "price":"50000",
+            "name":"Receta Original 1k",
+            "cant":["2 pak","3 pak","5 pak"]
+            },
+            {
+            "price":"56000",
+            "name":"Receta especial 1k",
+            "cant":["2 pak","3 pak","5 pak"]
+            },
+            {
+            "price":"59000",
+            "name":"Receta italiana 1k",
+            "cant":["2 pak","3 pak","5 pak"]
+            }
+        ]
     },    
     {
         "code_product": "1046296",
@@ -132,10 +179,26 @@
         ],
         "cantidad":"20",
         "order":"6",
-        "variant":[]
+        "variant":[
+            {
+            "price":"50000",
+            "name":"Receta Original 1k",
+            "cant":["2 pak","3 pak","5 pak"]
+            },
+            {
+            "price":"56000",
+            "name":"Receta especial 1k",
+            "cant":["2 pak","3 pak","5 pak"]
+            },
+            {
+            "price":"59000",
+            "name":"Receta italiana 1k",
+            "cant":["2 pak","3 pak","5 pak"]
+            }
+        ]
     },    
     {
-        "code_product": "1046297",
+        "code_product": "666666",
         "name_product": "PDF",
         "description": "Web view que permite la captura de datos mediante un servicio una previa visualizacion y su descarga",
         "category": "formulario",
@@ -143,9 +206,8 @@
         "price": "5000",
         "status": "0",
         "url_image":[     
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pckaEO_aEgSRQVGqmIynddjJlMNuUuX7aMlnEic3O6GzLhmSnWESFfZYuEzYV5a62ZYvfn-H9YlA0LROJr-xdCfvoFOQ=w999-h931", 
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pckaEO_aEgSRQVGqmIynddjJlMNuUuX7aMlnEic3O6GzLhmSnWESFfZYuEzYV5a62ZYvfn-H9YlA0LROJr-xdCfvoFOQ=w999-h931",
-        "https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81pckaEO_aEgSRQVGqmIynddjJlMNuUuX7aMlnEic3O6GzLhmSnWESFfZYuEzYV5a62ZYvfn-H9YlA0LROJr-xdCfvoFOQ=w999-h931"
+        "https://img.freepik.com/vector-gratis/banner-contraccion-supermercado-degradado_23-2149387927.jpg?w=2000",
+        "https://img.freepik.com/vector-gratis/banner-contraccion-supermercado-dibujado-mano_23-2149365586.jpg?w=2000"
         ],
         "cantidad":"20",
         "order":"7",
